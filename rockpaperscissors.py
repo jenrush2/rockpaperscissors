@@ -1,5 +1,5 @@
-player_1 = raw_input("Player 1, choose rock, paper, or scissors!")
-player_2 = raw_input("Player 2, choose rock, paper, or scissors!")
+player_1 = input("Player 1, choose rock, paper, or scissors!")
+player_2 = input("Player 2, choose rock, paper, or scissors!")
 
 player_1 = player_1.lower()
 player_2 = player_2.lower()
